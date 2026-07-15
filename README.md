@@ -1,3 +1,14 @@
+> WARNING!!!
+> 
+> im not afilliated with the original creator of openUTAUmobile
+> all credits to vocoder712
+> i just use github actions to compile this for ios
+>
+> thanks for read the warning and not just skip to downloads
+
+
+
+
 # OpenUtau Mobile
 [English](README.md) | [简体中文](README_zh.md)
 
